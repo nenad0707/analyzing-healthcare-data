@@ -54,7 +54,7 @@
     "page": {
       "*": {
         "background": [
-          { "color": { "solid": { "color": "#FFFFFF" } }, "transparency": 100 }
+          { "color": { "solid": { "color": "#FFFFFF" } }, "transparency": 0 }
         ]
       }
     }
